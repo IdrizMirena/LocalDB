@@ -1,0 +1,15 @@
+C:\Users\hyper\source\repos\Datababse_System_School\bin\Debug\Database1.mdf
+C:\Users\hyper\source\repos\Datababse_System_School\bin\Debug\Database1_log.ldf
+C:\Users\hyper\source\repos\Datababse_System_School\bin\Debug\Datababse_System_School.exe.config
+C:\Users\hyper\source\repos\Datababse_System_School\bin\Debug\Datababse_System_School.exe
+C:\Users\hyper\source\repos\Datababse_System_School\bin\Debug\Datababse_System_School.pdb
+C:\Users\hyper\source\repos\Datababse_System_School\bin\Debug\MaterialSkin.dll
+C:\Users\hyper\source\repos\Datababse_System_School\obj\Debug\Datababse_System_School.csproj.AssemblyReference.cache
+C:\Users\hyper\source\repos\Datababse_System_School\obj\Debug\Datababse_System_School.csproj.SuggestedBindingRedirects.cache
+C:\Users\hyper\source\repos\Datababse_System_School\obj\Debug\Datababse_System_School.Form1.resources
+C:\Users\hyper\source\repos\Datababse_System_School\obj\Debug\Datababse_System_School.Properties.Resources.resources
+C:\Users\hyper\source\repos\Datababse_System_School\obj\Debug\Datababse_System_School.csproj.GenerateResource.cache
+C:\Users\hyper\source\repos\Datababse_System_School\obj\Debug\Datababse_System_School.csproj.CoreCompileInputs.cache
+C:\Users\hyper\source\repos\Datababse_System_School\obj\Debug\Datababse_System_School.csproj.CopyComplete
+C:\Users\hyper\source\repos\Datababse_System_School\obj\Debug\Datababse_System_School.exe
+C:\Users\hyper\source\repos\Datababse_System_School\obj\Debug\Datababse_System_School.pdb
